@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/hijri-php-lunar-mansions-manazil",
+  "description": "28 Arabic Lunar Mansions (Manazil Al-Qamar) & Anwa' Tracker (حاسبة منازل القمر الثماني والعشرين والفصول)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
